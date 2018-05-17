@@ -4,4 +4,8 @@ In this section, I will write a literature review.
 
 In this section, I will write an economic model.
 
+<<<<<<< Updated upstream
 y = Ak^a
+=======
+Y/L = A (K/L)^a
+>>>>>>> Stashed changes
